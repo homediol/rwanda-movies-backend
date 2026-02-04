@@ -1,0 +1,1209 @@
+{
+  "leagues": [
+    {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England"
+    },
+    {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain"
+    },
+    {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany"
+    },
+    {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy"
+    },
+    {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France"
+    }
+  ],
+  "teams": [
+    {
+      "api_id": 33,
+      "name": "Manchester United",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 36,
+      "name": "Fulham",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 57,
+      "name": "Ipswich",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 40,
+      "name": "Liverpool",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 34,
+      "name": "Newcastle",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 41,
+      "name": "Southampton",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 42,
+      "name": "Arsenal",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 39,
+      "name": "Wolves",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 45,
+      "name": "Everton",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 51,
+      "name": "Brighton",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 65,
+      "name": "Nottingham Forest",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 35,
+      "name": "Bournemouth",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 48,
+      "name": "West Ham",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 66,
+      "name": "Aston Villa",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 55,
+      "name": "Brentford",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 52,
+      "name": "Crystal Palace",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 49,
+      "name": "Chelsea",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 50,
+      "name": "Manchester City",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 46,
+      "name": "Leicester",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 47,
+      "name": "Tottenham",
+      "country": "England",
+      "league": "Premier League"
+    },
+    {
+      "api_id": 531,
+      "name": "Athletic Club",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 546,
+      "name": "Getafe",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 543,
+      "name": "Real Betis",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 547,
+      "name": "Girona",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 538,
+      "name": "Celta Vigo",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 542,
+      "name": "Alaves",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 534,
+      "name": "Las Palmas",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 536,
+      "name": "Sevilla",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 727,
+      "name": "Osasuna",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 537,
+      "name": "Leganes",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 532,
+      "name": "Valencia",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 529,
+      "name": "Barcelona",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 548,
+      "name": "Real Sociedad",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 728,
+      "name": "Rayo Vallecano",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 798,
+      "name": "Mallorca",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 541,
+      "name": "Real Madrid",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 720,
+      "name": "Valladolid",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 540,
+      "name": "Espanyol",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 533,
+      "name": "Villarreal",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 530,
+      "name": "Atletico Madrid",
+      "country": "Spain",
+      "league": "La Liga"
+    },
+    {
+      "api_id": 163,
+      "name": "Borussia M\u00f6nchengladbach",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 168,
+      "name": "Bayer Leverkusen",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 160,
+      "name": "SC Freiburg",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 172,
+      "name": "VfB Stuttgart",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 164,
+      "name": "FSV Mainz 05",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 182,
+      "name": "Union Berlin",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 167,
+      "name": "1899 Hoffenheim",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 191,
+      "name": "Holstein Kiel",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 170,
+      "name": "FC Augsburg",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 162,
+      "name": "Werder Bremen",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 173,
+      "name": "RB Leipzig",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 176,
+      "name": "VfL Bochum",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 165,
+      "name": "Borussia Dortmund",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 169,
+      "name": "Eintracht Frankfurt",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 161,
+      "name": "VfL Wolfsburg",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 157,
+      "name": "Bayern M\u00fcnchen",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 186,
+      "name": "FC St. Pauli",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 180,
+      "name": "1. FC Heidenheim",
+      "country": "Germany",
+      "league": "Bundesliga"
+    },
+    {
+      "api_id": 495,
+      "name": "Genoa",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 505,
+      "name": "Inter",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 523,
+      "name": "Parma",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 502,
+      "name": "Fiorentina",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 489,
+      "name": "AC Milan",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 503,
+      "name": "Torino",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 511,
+      "name": "Empoli",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 1579,
+      "name": "Monza",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 500,
+      "name": "Bologna",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 494,
+      "name": "Udinese",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 504,
+      "name": "Verona",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 492,
+      "name": "Napoli",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 487,
+      "name": "Lazio",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 517,
+      "name": "Venezia",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 490,
+      "name": "Cagliari",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 497,
+      "name": "AS Roma",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 867,
+      "name": "Lecce",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 499,
+      "name": "Atalanta",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 496,
+      "name": "Juventus",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 895,
+      "name": "Como",
+      "country": "Italy",
+      "league": "Serie A"
+    },
+    {
+      "api_id": 111,
+      "name": "Le Havre",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 85,
+      "name": "Paris Saint Germain",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 106,
+      "name": "Stade Brestois 29",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 81,
+      "name": "Marseille",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 93,
+      "name": "Reims",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 79,
+      "name": "Lille",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 91,
+      "name": "Monaco",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 1063,
+      "name": "Saint Etienne",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 108,
+      "name": "Auxerre",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 84,
+      "name": "Nice",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 77,
+      "name": "Angers",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 116,
+      "name": "Lens",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 82,
+      "name": "Montpellier",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 95,
+      "name": "Strasbourg",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 96,
+      "name": "Toulouse",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 83,
+      "name": "Nantes",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 94,
+      "name": "Rennes",
+      "country": "France",
+      "league": "Ligue 1"
+    },
+    {
+      "api_id": 80,
+      "name": "Lyon",
+      "country": "France",
+      "league": "Ligue 1"
+    }
+  ],
+  "fixtures": [
+    {
+      "id": 1208021,
+      "home_team": "Manchester United",
+      "away_team": "Fulham",
+      "date": "2024-08-16T19:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208022,
+      "home_team": "Ipswich",
+      "away_team": "Liverpool",
+      "date": "2024-08-17T11:30:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208025,
+      "home_team": "Newcastle",
+      "away_team": "Southampton",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208023,
+      "home_team": "Arsenal",
+      "away_team": "Wolves",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208024,
+      "home_team": "Everton",
+      "away_team": "Brighton",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208026,
+      "home_team": "Nottingham Forest",
+      "away_team": "Bournemouth",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208027,
+      "home_team": "West Ham",
+      "away_team": "Aston Villa",
+      "date": "2024-08-17T16:30:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208028,
+      "home_team": "Brentford",
+      "away_team": "Crystal Palace",
+      "date": "2024-08-18T13:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208029,
+      "home_team": "Chelsea",
+      "away_team": "Manchester City",
+      "date": "2024-08-18T15:30:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208030,
+      "home_team": "Leicester",
+      "away_team": "Tottenham",
+      "date": "2024-08-19T19:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208033,
+      "home_team": "Brighton",
+      "away_team": "Manchester United",
+      "date": "2024-08-24T11:30:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208035,
+      "home_team": "Fulham",
+      "away_team": "Leicester",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208038,
+      "home_team": "Southampton",
+      "away_team": "Nottingham Forest",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208039,
+      "home_team": "Tottenham",
+      "away_team": "Everton",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208037,
+      "home_team": "Manchester City",
+      "away_team": "Ipswich",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT",
+      "league": "Premier League"
+    },
+    {
+      "id": 1208494,
+      "home_team": "Athletic Club",
+      "away_team": "Getafe",
+      "date": "2024-08-15T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208495,
+      "home_team": "Real Betis",
+      "away_team": "Girona",
+      "date": "2024-08-15T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208501,
+      "home_team": "Celta Vigo",
+      "away_team": "Alaves",
+      "date": "2024-08-16T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208497,
+      "home_team": "Las Palmas",
+      "away_team": "Sevilla",
+      "date": "2024-08-16T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208502,
+      "home_team": "Osasuna",
+      "away_team": "Leganes",
+      "date": "2024-08-17T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208499,
+      "home_team": "Valencia",
+      "away_team": "Barcelona",
+      "date": "2024-08-17T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208500,
+      "home_team": "Real Sociedad",
+      "away_team": "Rayo Vallecano",
+      "date": "2024-08-18T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208496,
+      "home_team": "Mallorca",
+      "away_team": "Real Madrid",
+      "date": "2024-08-18T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1212910,
+      "home_team": "Valladolid",
+      "away_team": "Espanyol",
+      "date": "2024-08-19T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208498,
+      "home_team": "Villarreal",
+      "away_team": "Atletico Madrid",
+      "date": "2024-08-19T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208504,
+      "home_team": "Celta Vigo",
+      "away_team": "Valencia",
+      "date": "2024-08-23T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208507,
+      "home_team": "Sevilla",
+      "away_team": "Villarreal",
+      "date": "2024-08-23T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208511,
+      "home_team": "Osasuna",
+      "away_team": "Mallorca",
+      "date": "2024-08-24T15:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1208510,
+      "home_team": "Barcelona",
+      "away_team": "Athletic Club",
+      "date": "2024-08-24T17:00:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1212911,
+      "home_team": "Espanyol",
+      "away_team": "Real Sociedad",
+      "date": "2024-08-24T19:30:00+00:00",
+      "status": "FT",
+      "league": "La Liga"
+    },
+    {
+      "id": 1223975,
+      "home_team": "Borussia M\u00f6nchengladbach",
+      "away_team": "Bayer Leverkusen",
+      "date": "2024-08-23T18:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223979,
+      "home_team": "SC Freiburg",
+      "away_team": "VfB Stuttgart",
+      "date": "2024-08-24T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223982,
+      "home_team": "FSV Mainz 05",
+      "away_team": "Union Berlin",
+      "date": "2024-08-24T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223978,
+      "home_team": "1899 Hoffenheim",
+      "away_team": "Holstein Kiel",
+      "date": "2024-08-24T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223980,
+      "home_team": "FC Augsburg",
+      "away_team": "Werder Bremen",
+      "date": "2024-08-24T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223976,
+      "home_team": "RB Leipzig",
+      "away_team": "VfL Bochum",
+      "date": "2024-08-24T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223977,
+      "home_team": "Borussia Dortmund",
+      "away_team": "Eintracht Frankfurt",
+      "date": "2024-08-24T16:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223981,
+      "home_team": "VfL Wolfsburg",
+      "away_team": "Bayern M\u00fcnchen",
+      "date": "2024-08-25T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223983,
+      "home_team": "FC St. Pauli",
+      "away_team": "1. FC Heidenheim",
+      "date": "2024-08-25T15:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223990,
+      "home_team": "Union Berlin",
+      "away_team": "FC St. Pauli",
+      "date": "2024-08-30T18:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223989,
+      "home_team": "Werder Bremen",
+      "away_team": "Borussia Dortmund",
+      "date": "2024-08-31T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223987,
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "1899 Hoffenheim",
+      "date": "2024-08-31T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223985,
+      "home_team": "VfB Stuttgart",
+      "away_team": "FSV Mainz 05",
+      "date": "2024-08-31T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223991,
+      "home_team": "VfL Bochum",
+      "away_team": "Borussia M\u00f6nchengladbach",
+      "date": "2024-08-31T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223992,
+      "home_team": "Holstein Kiel",
+      "away_team": "VfL Wolfsburg",
+      "date": "2024-08-31T13:30:00+00:00",
+      "status": "FT",
+      "league": "Bundesliga"
+    },
+    {
+      "id": 1223598,
+      "home_team": "Genoa",
+      "away_team": "Inter",
+      "date": "2024-08-17T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223604,
+      "home_team": "Parma",
+      "away_team": "Fiorentina",
+      "date": "2024-08-17T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223603,
+      "home_team": "AC Milan",
+      "away_team": "Torino",
+      "date": "2024-08-17T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223597,
+      "home_team": "Empoli",
+      "away_team": "Monza",
+      "date": "2024-08-17T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223595,
+      "home_team": "Bologna",
+      "away_team": "Udinese",
+      "date": "2024-08-18T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223599,
+      "home_team": "Verona",
+      "away_team": "Napoli",
+      "date": "2024-08-18T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223601,
+      "home_team": "Lazio",
+      "away_team": "Venezia",
+      "date": "2024-08-18T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223596,
+      "home_team": "Cagliari",
+      "away_team": "AS Roma",
+      "date": "2024-08-18T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223602,
+      "home_team": "Lecce",
+      "away_team": "Atalanta",
+      "date": "2024-08-19T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223600,
+      "home_team": "Juventus",
+      "away_team": "Como",
+      "date": "2024-08-19T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223614,
+      "home_team": "Udinese",
+      "away_team": "Lazio",
+      "date": "2024-08-24T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223611,
+      "home_team": "Parma",
+      "away_team": "AC Milan",
+      "date": "2024-08-24T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223608,
+      "home_team": "Inter",
+      "away_team": "Lecce",
+      "date": "2024-08-24T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223609,
+      "home_team": "Monza",
+      "away_team": "Genoa",
+      "date": "2024-08-24T18:45:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1223606,
+      "home_team": "Fiorentina",
+      "away_team": "Venezia",
+      "date": "2024-08-25T16:30:00+00:00",
+      "status": "FT",
+      "league": "Serie A"
+    },
+    {
+      "id": 1213754,
+      "home_team": "Le Havre",
+      "away_team": "Paris Saint Germain",
+      "date": "2024-08-16T18:45:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213747,
+      "home_team": "Stade Brestois 29",
+      "away_team": "Marseille",
+      "date": "2024-08-17T15:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213752,
+      "home_team": "Reims",
+      "away_team": "Lille",
+      "date": "2024-08-17T17:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213751,
+      "home_team": "Monaco",
+      "away_team": "Saint Etienne",
+      "date": "2024-08-17T19:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213753,
+      "home_team": "Auxerre",
+      "away_team": "Nice",
+      "date": "2024-08-18T13:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213750,
+      "home_team": "Angers",
+      "away_team": "Lens",
+      "date": "2024-08-18T15:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213748,
+      "home_team": "Montpellier",
+      "away_team": "Strasbourg",
+      "date": "2024-08-18T15:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213749,
+      "home_team": "Toulouse",
+      "away_team": "Nantes",
+      "date": "2024-08-18T15:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213755,
+      "home_team": "Rennes",
+      "away_team": "Lyon",
+      "date": "2024-08-18T18:45:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213756,
+      "home_team": "Paris Saint Germain",
+      "away_team": "Montpellier",
+      "date": "2024-08-23T18:45:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213763,
+      "home_team": "Lyon",
+      "away_team": "Monaco",
+      "date": "2024-08-24T15:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213760,
+      "home_team": "Lille",
+      "away_team": "Angers",
+      "date": "2024-08-24T17:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213759,
+      "home_team": "Saint Etienne",
+      "away_team": "Le Havre",
+      "date": "2024-08-24T19:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213762,
+      "home_team": "Lens",
+      "away_team": "Stade Brestois 29",
+      "date": "2024-08-25T13:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    },
+    {
+      "id": 1213758,
+      "home_team": "Nantes",
+      "away_team": "Auxerre",
+      "date": "2024-08-25T15:00:00+00:00",
+      "status": "FT",
+      "league": "Ligue 1"
+    }
+  ]
+}

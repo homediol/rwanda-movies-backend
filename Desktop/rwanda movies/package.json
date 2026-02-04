@@ -1,0 +1,31 @@
+{
+  "name": "rwanda-movies-streaming",
+  "version": "1.0.0",
+  "description": "Modern movie streaming website for Rwanda movies",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install-all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+    "start:prod": "./start-production.sh",
+    "start:dev": "./start-development.sh",
+    "setup:prod": "./setup-production.sh",
+    "health-check": "node monitoring/health-check.js",
+    "backup": "./monitoring/backup.sh",
+    "pm2:status": "npx pm2 status",
+    "pm2:logs": "npx pm2 logs rwanda-movies-api",
+    "pm2:monit": "npx pm2 monit",
+    "pm2:restart": "npx pm2 restart rwanda-movies-api",
+    "pm2:stop": "npx pm2 stop rwanda-movies-api",
+    "pm2:delete": "npx pm2 delete rwanda-movies-api",
+    "start:simple": "cd backend && npm start",
+    "monitor": "curl -s http://localhost:5002/api/health"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "pm2": "^6.0.14"
+  }
+}

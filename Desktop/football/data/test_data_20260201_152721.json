@@ -1,0 +1,1321 @@
+{
+  "fixtures": [
+    {
+      "id": 1208021,
+      "home_team": "Manchester United",
+      "away_team": "Fulham",
+      "date": "2024-08-16T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208022,
+      "home_team": "Ipswich",
+      "away_team": "Liverpool",
+      "date": "2024-08-17T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208025,
+      "home_team": "Newcastle",
+      "away_team": "Southampton",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208023,
+      "home_team": "Arsenal",
+      "away_team": "Wolves",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208024,
+      "home_team": "Everton",
+      "away_team": "Brighton",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208026,
+      "home_team": "Nottingham Forest",
+      "away_team": "Bournemouth",
+      "date": "2024-08-17T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208027,
+      "home_team": "West Ham",
+      "away_team": "Aston Villa",
+      "date": "2024-08-17T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208028,
+      "home_team": "Brentford",
+      "away_team": "Crystal Palace",
+      "date": "2024-08-18T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208029,
+      "home_team": "Chelsea",
+      "away_team": "Manchester City",
+      "date": "2024-08-18T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208030,
+      "home_team": "Leicester",
+      "away_team": "Tottenham",
+      "date": "2024-08-19T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208033,
+      "home_team": "Brighton",
+      "away_team": "Manchester United",
+      "date": "2024-08-24T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208035,
+      "home_team": "Fulham",
+      "away_team": "Leicester",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208038,
+      "home_team": "Southampton",
+      "away_team": "Nottingham Forest",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208039,
+      "home_team": "Tottenham",
+      "away_team": "Everton",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208037,
+      "home_team": "Manchester City",
+      "away_team": "Ipswich",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208034,
+      "home_team": "Crystal Palace",
+      "away_team": "West Ham",
+      "date": "2024-08-24T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208032,
+      "home_team": "Aston Villa",
+      "away_team": "Arsenal",
+      "date": "2024-08-24T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208031,
+      "home_team": "Bournemouth",
+      "away_team": "Newcastle",
+      "date": "2024-08-25T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208040,
+      "home_team": "Wolves",
+      "away_team": "Chelsea",
+      "date": "2024-08-25T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208036,
+      "home_team": "Liverpool",
+      "away_team": "Brentford",
+      "date": "2024-08-25T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208041,
+      "home_team": "Arsenal",
+      "away_team": "Brighton",
+      "date": "2024-08-31T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208044,
+      "home_team": "Everton",
+      "away_team": "Bournemouth",
+      "date": "2024-08-31T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208046,
+      "home_team": "Leicester",
+      "away_team": "Aston Villa",
+      "date": "2024-08-31T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208042,
+      "home_team": "Brentford",
+      "away_team": "Southampton",
+      "date": "2024-08-31T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208045,
+      "home_team": "Ipswich",
+      "away_team": "Fulham",
+      "date": "2024-08-31T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208049,
+      "home_team": "Nottingham Forest",
+      "away_team": "Wolves",
+      "date": "2024-08-31T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208050,
+      "home_team": "West Ham",
+      "away_team": "Manchester City",
+      "date": "2024-08-31T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208048,
+      "home_team": "Newcastle",
+      "away_team": "Tottenham",
+      "date": "2024-09-01T12:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208043,
+      "home_team": "Chelsea",
+      "away_team": "Crystal Palace",
+      "date": "2024-09-01T12:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208047,
+      "home_team": "Manchester United",
+      "away_team": "Liverpool",
+      "date": "2024-09-01T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208058,
+      "home_team": "Southampton",
+      "away_team": "Manchester United",
+      "date": "2024-09-14T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208055,
+      "home_team": "Fulham",
+      "away_team": "West Ham",
+      "date": "2024-09-14T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208056,
+      "home_team": "Liverpool",
+      "away_team": "Nottingham Forest",
+      "date": "2024-09-14T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208057,
+      "home_team": "Manchester City",
+      "away_team": "Brentford",
+      "date": "2024-09-14T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208053,
+      "home_team": "Brighton",
+      "away_team": "Ipswich",
+      "date": "2024-09-14T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208054,
+      "home_team": "Crystal Palace",
+      "away_team": "Leicester",
+      "date": "2024-09-14T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208052,
+      "home_team": "Aston Villa",
+      "away_team": "Everton",
+      "date": "2024-09-14T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208051,
+      "home_team": "Bournemouth",
+      "away_team": "Chelsea",
+      "date": "2024-09-14T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208059,
+      "home_team": "Tottenham",
+      "away_team": "Arsenal",
+      "date": "2024-09-15T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208060,
+      "home_team": "Wolves",
+      "away_team": "Newcastle",
+      "date": "2024-09-15T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208070,
+      "home_team": "West Ham",
+      "away_team": "Chelsea",
+      "date": "2024-09-21T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208064,
+      "home_team": "Fulham",
+      "away_team": "Newcastle",
+      "date": "2024-09-21T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208066,
+      "home_team": "Liverpool",
+      "away_team": "Bournemouth",
+      "date": "2024-09-21T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208068,
+      "home_team": "Southampton",
+      "away_team": "Ipswich",
+      "date": "2024-09-21T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208065,
+      "home_team": "Leicester",
+      "away_team": "Everton",
+      "date": "2024-09-21T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208069,
+      "home_team": "Tottenham",
+      "away_team": "Brentford",
+      "date": "2024-09-21T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208061,
+      "home_team": "Aston Villa",
+      "away_team": "Wolves",
+      "date": "2024-09-21T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208063,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester United",
+      "date": "2024-09-21T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208062,
+      "home_team": "Brighton",
+      "away_team": "Nottingham Forest",
+      "date": "2024-09-22T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208067,
+      "home_team": "Manchester City",
+      "away_team": "Arsenal",
+      "date": "2024-09-22T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208078,
+      "home_team": "Newcastle",
+      "away_team": "Manchester City",
+      "date": "2024-09-28T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208072,
+      "home_team": "Arsenal",
+      "away_team": "Leicester",
+      "date": "2024-09-28T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208075,
+      "home_team": "Everton",
+      "away_team": "Crystal Palace",
+      "date": "2024-09-28T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208074,
+      "home_team": "Chelsea",
+      "away_team": "Brighton",
+      "date": "2024-09-28T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208073,
+      "home_team": "Brentford",
+      "away_team": "West Ham",
+      "date": "2024-09-28T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208079,
+      "home_team": "Nottingham Forest",
+      "away_team": "Fulham",
+      "date": "2024-09-28T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208080,
+      "home_team": "Wolves",
+      "away_team": "Liverpool",
+      "date": "2024-09-28T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208076,
+      "home_team": "Ipswich",
+      "away_team": "Aston Villa",
+      "date": "2024-09-29T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208077,
+      "home_team": "Manchester United",
+      "away_team": "Tottenham",
+      "date": "2024-09-29T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208071,
+      "home_team": "Bournemouth",
+      "away_team": "Southampton",
+      "date": "2024-09-30T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208086,
+      "home_team": "Crystal Palace",
+      "away_team": "Liverpool",
+      "date": "2024-10-05T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208081,
+      "home_team": "Arsenal",
+      "away_team": "Southampton",
+      "date": "2024-10-05T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208088,
+      "home_team": "Leicester",
+      "away_team": "Bournemouth",
+      "date": "2024-10-05T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208090,
+      "home_team": "West Ham",
+      "away_team": "Ipswich",
+      "date": "2024-10-05T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208089,
+      "home_team": "Manchester City",
+      "away_team": "Fulham",
+      "date": "2024-10-05T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208083,
+      "home_team": "Brentford",
+      "away_team": "Wolves",
+      "date": "2024-10-05T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208087,
+      "home_team": "Everton",
+      "away_team": "Newcastle",
+      "date": "2024-10-05T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208085,
+      "home_team": "Chelsea",
+      "away_team": "Nottingham Forest",
+      "date": "2024-10-06T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208082,
+      "home_team": "Aston Villa",
+      "away_team": "Manchester United",
+      "date": "2024-10-06T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208084,
+      "home_team": "Brighton",
+      "away_team": "Tottenham",
+      "date": "2024-10-06T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208099,
+      "home_team": "Tottenham",
+      "away_team": "West Ham",
+      "date": "2024-10-19T11:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208095,
+      "home_team": "Manchester United",
+      "away_team": "Brentford",
+      "date": "2024-10-19T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208096,
+      "home_team": "Newcastle",
+      "away_team": "Brighton",
+      "date": "2024-10-19T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208092,
+      "home_team": "Fulham",
+      "away_team": "Aston Villa",
+      "date": "2024-10-19T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208098,
+      "home_team": "Southampton",
+      "away_team": "Leicester",
+      "date": "2024-10-19T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208093,
+      "home_team": "Ipswich",
+      "away_team": "Everton",
+      "date": "2024-10-19T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208091,
+      "home_team": "Bournemouth",
+      "away_team": "Arsenal",
+      "date": "2024-10-19T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208100,
+      "home_team": "Wolves",
+      "away_team": "Manchester City",
+      "date": "2024-10-20T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208094,
+      "home_team": "Liverpool",
+      "away_team": "Chelsea",
+      "date": "2024-10-20T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208097,
+      "home_team": "Nottingham Forest",
+      "away_team": "Crystal Palace",
+      "date": "2024-10-21T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208110,
+      "home_team": "Leicester",
+      "away_team": "Nottingham Forest",
+      "date": "2024-10-25T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208111,
+      "home_team": "Manchester City",
+      "away_team": "Southampton",
+      "date": "2024-10-26T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208106,
+      "home_team": "Brighton",
+      "away_team": "Wolves",
+      "date": "2024-10-26T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208105,
+      "home_team": "Brentford",
+      "away_team": "Ipswich",
+      "date": "2024-10-26T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208104,
+      "home_team": "Aston Villa",
+      "away_team": "Bournemouth",
+      "date": "2024-10-26T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208109,
+      "home_team": "Everton",
+      "away_team": "Fulham",
+      "date": "2024-10-26T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208112,
+      "home_team": "West Ham",
+      "away_team": "Manchester United",
+      "date": "2024-10-27T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208107,
+      "home_team": "Chelsea",
+      "away_team": "Newcastle",
+      "date": "2024-10-27T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208108,
+      "home_team": "Crystal Palace",
+      "away_team": "Tottenham",
+      "date": "2024-10-27T13:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208103,
+      "home_team": "Arsenal",
+      "away_team": "Liverpool",
+      "date": "2024-10-27T15:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208118,
+      "home_team": "Newcastle",
+      "away_team": "Arsenal",
+      "date": "2024-11-02T12:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208113,
+      "home_team": "Bournemouth",
+      "away_team": "Manchester City",
+      "date": "2024-11-02T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208116,
+      "home_team": "Liverpool",
+      "away_team": "Brighton",
+      "date": "2024-11-02T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208120,
+      "home_team": "Southampton",
+      "away_team": "Everton",
+      "date": "2024-11-02T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208115,
+      "home_team": "Ipswich",
+      "away_team": "Leicester",
+      "date": "2024-11-02T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208119,
+      "home_team": "Nottingham Forest",
+      "away_team": "West Ham",
+      "date": "2024-11-02T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208122,
+      "home_team": "Wolves",
+      "away_team": "Crystal Palace",
+      "date": "2024-11-02T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208121,
+      "home_team": "Tottenham",
+      "away_team": "Aston Villa",
+      "date": "2024-11-03T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208117,
+      "home_team": "Manchester United",
+      "away_team": "Chelsea",
+      "date": "2024-11-03T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208114,
+      "home_team": "Fulham",
+      "away_team": "Brentford",
+      "date": "2024-11-04T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208132,
+      "home_team": "Wolves",
+      "away_team": "Southampton",
+      "date": "2024-11-09T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208131,
+      "home_team": "West Ham",
+      "away_team": "Everton",
+      "date": "2024-11-09T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208126,
+      "home_team": "Crystal Palace",
+      "away_team": "Fulham",
+      "date": "2024-11-09T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208123,
+      "home_team": "Brentford",
+      "away_team": "Bournemouth",
+      "date": "2024-11-09T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208124,
+      "home_team": "Brighton",
+      "away_team": "Manchester City",
+      "date": "2024-11-09T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208127,
+      "home_team": "Liverpool",
+      "away_team": "Aston Villa",
+      "date": "2024-11-09T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208128,
+      "home_team": "Manchester United",
+      "away_team": "Leicester",
+      "date": "2024-11-10T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208130,
+      "home_team": "Tottenham",
+      "away_team": "Ipswich",
+      "date": "2024-11-10T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208129,
+      "home_team": "Nottingham Forest",
+      "away_team": "Newcastle",
+      "date": "2024-11-10T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208125,
+      "home_team": "Chelsea",
+      "away_team": "Arsenal",
+      "date": "2024-11-10T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208139,
+      "home_team": "Leicester",
+      "away_team": "Chelsea",
+      "date": "2024-11-23T12:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208133,
+      "home_team": "Bournemouth",
+      "away_team": "Brighton",
+      "date": "2024-11-23T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208137,
+      "home_team": "Fulham",
+      "away_team": "Wolves",
+      "date": "2024-11-23T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208134,
+      "home_team": "Arsenal",
+      "away_team": "Nottingham Forest",
+      "date": "2024-11-23T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208136,
+      "home_team": "Everton",
+      "away_team": "Brentford",
+      "date": "2024-11-23T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208135,
+      "home_team": "Aston Villa",
+      "away_team": "Crystal Palace",
+      "date": "2024-11-23T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208140,
+      "home_team": "Manchester City",
+      "away_team": "Tottenham",
+      "date": "2024-11-23T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208142,
+      "home_team": "Southampton",
+      "away_team": "Liverpool",
+      "date": "2024-11-24T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208138,
+      "home_team": "Ipswich",
+      "away_team": "Manchester United",
+      "date": "2024-11-24T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208141,
+      "home_team": "Newcastle",
+      "away_team": "West Ham",
+      "date": "2024-11-25T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208144,
+      "home_team": "Brighton",
+      "away_team": "Southampton",
+      "date": "2024-11-29T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208152,
+      "home_team": "Wolves",
+      "away_team": "Bournemouth",
+      "date": "2024-11-30T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208146,
+      "home_team": "Crystal Palace",
+      "away_team": "Newcastle",
+      "date": "2024-11-30T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208143,
+      "home_team": "Brentford",
+      "away_team": "Leicester",
+      "date": "2024-11-30T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208149,
+      "home_team": "Nottingham Forest",
+      "away_team": "Ipswich",
+      "date": "2024-11-30T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208151,
+      "home_team": "West Ham",
+      "away_team": "Arsenal",
+      "date": "2024-11-30T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208148,
+      "home_team": "Manchester United",
+      "away_team": "Everton",
+      "date": "2024-12-01T13:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208150,
+      "home_team": "Tottenham",
+      "away_team": "Fulham",
+      "date": "2024-12-01T13:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208145,
+      "home_team": "Chelsea",
+      "away_team": "Aston Villa",
+      "date": "2024-12-01T13:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208147,
+      "home_team": "Liverpool",
+      "away_team": "Manchester City",
+      "date": "2024-12-01T16:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208158,
+      "home_team": "Ipswich",
+      "away_team": "Crystal Palace",
+      "date": "2024-12-03T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208159,
+      "home_team": "Leicester",
+      "away_team": "West Ham",
+      "date": "2024-12-03T20:15:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208161,
+      "home_team": "Newcastle",
+      "away_team": "Liverpool",
+      "date": "2024-12-04T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208162,
+      "home_team": "Southampton",
+      "away_team": "Chelsea",
+      "date": "2024-12-04T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208156,
+      "home_team": "Everton",
+      "away_team": "Wolves",
+      "date": "2024-12-04T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208160,
+      "home_team": "Manchester City",
+      "away_team": "Nottingham Forest",
+      "date": "2024-12-04T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208154,
+      "home_team": "Arsenal",
+      "away_team": "Manchester United",
+      "date": "2024-12-04T20:15:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208155,
+      "home_team": "Aston Villa",
+      "away_team": "Brentford",
+      "date": "2024-12-04T20:15:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208157,
+      "home_team": "Fulham",
+      "away_team": "Brighton",
+      "date": "2024-12-05T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208153,
+      "home_team": "Bournemouth",
+      "away_team": "Tottenham",
+      "date": "2024-12-05T20:15:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208165,
+      "home_team": "Crystal Palace",
+      "away_team": "Manchester City",
+      "date": "2024-12-07T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208164,
+      "home_team": "Brentford",
+      "away_team": "Newcastle",
+      "date": "2024-12-07T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208163,
+      "home_team": "Aston Villa",
+      "away_team": "Southampton",
+      "date": "2024-12-07T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208170,
+      "home_team": "Manchester United",
+      "away_team": "Nottingham Forest",
+      "date": "2024-12-07T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208167,
+      "home_team": "Fulham",
+      "away_team": "Arsenal",
+      "date": "2024-12-08T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208169,
+      "home_team": "Leicester",
+      "away_team": "Brighton",
+      "date": "2024-12-08T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208168,
+      "home_team": "Ipswich",
+      "away_team": "Bournemouth",
+      "date": "2024-12-08T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208171,
+      "home_team": "Tottenham",
+      "away_team": "Chelsea",
+      "date": "2024-12-08T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208172,
+      "home_team": "West Ham",
+      "away_team": "Wolves",
+      "date": "2024-12-09T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208179,
+      "home_team": "Newcastle",
+      "away_team": "Leicester",
+      "date": "2024-12-14T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208182,
+      "home_team": "Wolves",
+      "away_team": "Ipswich",
+      "date": "2024-12-14T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208177,
+      "home_team": "Liverpool",
+      "away_team": "Fulham",
+      "date": "2024-12-14T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208174,
+      "home_team": "Arsenal",
+      "away_team": "Everton",
+      "date": "2024-12-14T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208180,
+      "home_team": "Nottingham Forest",
+      "away_team": "Aston Villa",
+      "date": "2024-12-14T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208175,
+      "home_team": "Brighton",
+      "away_team": "Crystal Palace",
+      "date": "2024-12-15T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208178,
+      "home_team": "Manchester City",
+      "away_team": "Manchester United",
+      "date": "2024-12-15T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208181,
+      "home_team": "Southampton",
+      "away_team": "Tottenham",
+      "date": "2024-12-15T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208176,
+      "home_team": "Chelsea",
+      "away_team": "Brentford",
+      "date": "2024-12-15T19:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208173,
+      "home_team": "Bournemouth",
+      "away_team": "West Ham",
+      "date": "2024-12-16T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208183,
+      "home_team": "Aston Villa",
+      "away_team": "Manchester City",
+      "date": "2024-12-21T12:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208192,
+      "home_team": "West Ham",
+      "away_team": "Brighton",
+      "date": "2024-12-21T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208184,
+      "home_team": "Brentford",
+      "away_team": "Nottingham Forest",
+      "date": "2024-12-21T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208188,
+      "home_team": "Ipswich",
+      "away_team": "Newcastle",
+      "date": "2024-12-21T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208185,
+      "home_team": "Crystal Palace",
+      "away_team": "Arsenal",
+      "date": "2024-12-21T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208190,
+      "home_team": "Manchester United",
+      "away_team": "Bournemouth",
+      "date": "2024-12-22T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208187,
+      "home_team": "Fulham",
+      "away_team": "Southampton",
+      "date": "2024-12-22T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208186,
+      "home_team": "Everton",
+      "away_team": "Chelsea",
+      "date": "2024-12-22T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208189,
+      "home_team": "Leicester",
+      "away_team": "Wolves",
+      "date": "2024-12-22T14:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208191,
+      "home_team": "Tottenham",
+      "away_team": "Liverpool",
+      "date": "2024-12-22T16:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208198,
+      "home_team": "Manchester City",
+      "away_team": "Everton",
+      "date": "2024-12-26T12:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208199,
+      "home_team": "Newcastle",
+      "away_team": "Aston Villa",
+      "date": "2024-12-26T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208193,
+      "home_team": "Bournemouth",
+      "away_team": "Crystal Palace",
+      "date": "2024-12-26T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208201,
+      "home_team": "Southampton",
+      "away_team": "West Ham",
+      "date": "2024-12-26T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208196,
+      "home_team": "Chelsea",
+      "away_team": "Fulham",
+      "date": "2024-12-26T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208200,
+      "home_team": "Nottingham Forest",
+      "away_team": "Tottenham",
+      "date": "2024-12-26T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208202,
+      "home_team": "Wolves",
+      "away_team": "Manchester United",
+      "date": "2024-12-26T17:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208197,
+      "home_team": "Liverpool",
+      "away_team": "Leicester",
+      "date": "2024-12-26T20:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208195,
+      "home_team": "Brighton",
+      "away_team": "Brentford",
+      "date": "2024-12-27T19:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208194,
+      "home_team": "Arsenal",
+      "away_team": "Ipswich",
+      "date": "2024-12-27T20:15:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208209,
+      "home_team": "Leicester",
+      "away_team": "Manchester City",
+      "date": "2024-12-29T14:30:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208207,
+      "home_team": "Fulham",
+      "away_team": "Bournemouth",
+      "date": "2024-12-29T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208206,
+      "home_team": "Everton",
+      "away_team": "Nottingham Forest",
+      "date": "2024-12-29T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208211,
+      "home_team": "Tottenham",
+      "away_team": "Wolves",
+      "date": "2024-12-29T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208205,
+      "home_team": "Crystal Palace",
+      "away_team": "Southampton",
+      "date": "2024-12-29T15:00:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208212,
+      "home_team": "West Ham",
+      "away_team": "Liverpool",
+      "date": "2024-12-29T17:15:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208208,
+      "home_team": "Ipswich",
+      "away_team": "Chelsea",
+      "date": "2024-12-30T19:45:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208203,
+      "home_team": "Aston Villa",
+      "away_team": "Brighton",
+      "date": "2024-12-30T19:45:00+00:00",
+      "status": "FT"
+    },
+    {
+      "id": 1208210,
+      "home_team": "Manchester United",
+      "away_team": "Newcastle",
+      "date": "2024-12-30T20:00:00+00:00",
+      "status": "FT"
+    }
+  ],
+  "teams": []
+}

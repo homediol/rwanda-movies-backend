@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8.0
+    environment:
+      MYSQL_DATABASE: football_db
+      MYSQL_USER: football_user
+      MYSQL_PASSWORD: football_pass
+      MYSQL_ROOT_PASSWORD: root_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./database/mysql_schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: mysql://football_user:football_pass@mysql:3306/football_db
+      API_FOOTBALL_KEY: ${API_FOOTBALL_KEY}
+      ODDS_API_KEY: ${ODDS_API_KEY}
+    depends_on:
+      - mysql
+    volumes:
+      - ./backend:/app
+      - ./data_bot:/app/data_bot
+      - ./ml_models:/app/ml_models
+      - ./config:/app/config
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  data_bot:
+    build: ./data_bot
+    environment:
+      DATABASE_URL: mysql://football_user:football_pass@mysql:3306/football_db
+      API_FOOTBALL_KEY: ${API_FOOTBALL_KEY}
+      ODDS_API_KEY: ${ODDS_API_KEY}
+    depends_on:
+      - mysql
+    volumes:
+      - ./data_bot:/app
+      - ./config:/app/config
+    # Run every hour
+    command: sh -c "while true; do python main.py; sleep 3600; done"
+
+volumes:
+  mysql_data:

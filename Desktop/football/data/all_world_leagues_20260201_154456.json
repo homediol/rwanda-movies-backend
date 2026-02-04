@@ -1,0 +1,306 @@
+{
+  "leagues": [
+    {
+      "id": 4,
+      "name": "Euro Championship",
+      "country": "World",
+      "type": "Cup"
+    },
+    {
+      "id": 586,
+      "name": "West Bank Premier League",
+      "country": "Palestine",
+      "type": "League"
+    },
+    {
+      "id": 7,
+      "name": "Asian Cup",
+      "country": "World",
+      "type": "Cup"
+    },
+    {
+      "id": 8,
+      "name": "World Cup - Women",
+      "country": "World",
+      "type": "Cup"
+    },
+    {
+      "id": 512,
+      "name": "2nd Division - Group A",
+      "country": "Albania",
+      "type": "League"
+    },
+    {
+      "id": 513,
+      "name": "2nd Division - Group B",
+      "country": "Albania",
+      "type": "League"
+    },
+    {
+      "id": 313,
+      "name": "2a Divisi\u00f3",
+      "country": "Andorra",
+      "type": "League"
+    },
+    {
+      "id": 133,
+      "name": "Primera D",
+      "country": "Argentina",
+      "type": "League"
+    },
+    {
+      "id": 70,
+      "name": "National 2 - Group D",
+      "country": "France",
+      "type": "League"
+    },
+    {
+      "id": 377,
+      "name": "Division d'Honneur",
+      "country": "Guadeloupe",
+      "type": "League"
+    },
+    {
+      "id": 338,
+      "name": "Primera Division",
+      "country": "Guatemala",
+      "type": "League"
+    },
+    {
+      "id": 118,
+      "name": "2. Division",
+      "country": "Belarus",
+      "type": "League"
+    },
+    {
+      "id": 519,
+      "name": "Super Cup",
+      "country": "Belgium",
+      "type": "Cup"
+    },
+    {
+      "id": 543,
+      "name": "Super Cup",
+      "country": "Netherlands",
+      "type": "Cup"
+    },
+    {
+      "id": 414,
+      "name": "Premier League",
+      "country": "Bermuda",
+      "type": "League"
+    },
+    {
+      "id": 151,
+      "name": "Third Amateur Division - VFV A",
+      "country": "Belgium",
+      "type": "League"
+    },
+    {
+      "id": 152,
+      "name": "Third Amateur Division - VFV B",
+      "country": "Belgium",
+      "type": "League"
+    },
+    {
+      "id": 323,
+      "name": "Indian Super League",
+      "country": "India",
+      "type": "League"
+    },
+    {
+      "id": 324,
+      "name": "I-League",
+      "country": "India",
+      "type": "League"
+    },
+    {
+      "id": 642,
+      "name": "Cura\u00e7ao Sekshon Pag\u00e1",
+      "country": "Curacao",
+      "type": "League"
+    },
+    {
+      "id": 468,
+      "name": "National 3 - Group I",
+      "country": "France",
+      "type": "League"
+    },
+    {
+      "id": 469,
+      "name": "National 3 - Group J",
+      "country": "France",
+      "type": "League"
+    },
+    {
+      "id": 485,
+      "name": "Federation Cup",
+      "country": "Bahrain",
+      "type": "Cup"
+    },
+    {
+      "id": 590,
+      "name": "A Division",
+      "country": "Nepal",
+      "type": "League"
+    },
+    {
+      "id": 515,
+      "name": "U21 League 1",
+      "country": "Algeria",
+      "type": "League"
+    },
+    {
+      "id": 523,
+      "name": "NISA",
+      "country": "USA",
+      "type": "League"
+    },
+    {
+      "id": 654,
+      "name": "Super Cup",
+      "country": "Armenia",
+      "type": "Cup"
+    },
+    {
+      "id": 709,
+      "name": "Cup",
+      "country": "Armenia",
+      "type": "Cup"
+    },
+    {
+      "id": 724,
+      "name": "U18 Divisie 1",
+      "country": "Netherlands",
+      "type": "League"
+    },
+    {
+      "id": 741,
+      "name": "Brasileiro de Aspirantes",
+      "country": "Brazil",
+      "type": "Cup"
+    },
+    {
+      "id": 763,
+      "name": "Mauritian League",
+      "country": "Mauritius",
+      "type": "League"
+    },
+    {
+      "id": 792,
+      "name": "Liga III - Serie 9",
+      "country": "Romania",
+      "type": "League"
+    },
+    {
+      "id": 793,
+      "name": "Liga III - Serie 10",
+      "country": "Romania",
+      "type": "League"
+    },
+    {
+      "id": 796,
+      "name": "2. Liga Interregional - Group 1",
+      "country": "Switzerland",
+      "type": "League"
+    },
+    {
+      "id": 797,
+      "name": "2. Liga Interregional - Group 2",
+      "country": "Switzerland",
+      "type": "League"
+    },
+    {
+      "id": 798,
+      "name": "2. Liga Interregional - Group 3",
+      "country": "Switzerland",
+      "type": "League"
+    },
+    {
+      "id": 819,
+      "name": "Super Cup",
+      "country": "Kosovo",
+      "type": "Cup"
+    },
+    {
+      "id": 822,
+      "name": "Cup",
+      "country": "Morocco",
+      "type": "Cup"
+    },
+    {
+      "id": 830,
+      "name": "Super Cup",
+      "country": "Uzbekistan",
+      "type": "Cup"
+    },
+    {
+      "id": 562,
+      "name": "Reserve League",
+      "country": "Belarus",
+      "type": "League"
+    },
+    {
+      "id": 853,
+      "name": "Supercopa de Ecuador",
+      "country": "Ecuador",
+      "type": "Cup"
+    },
+    {
+      "id": 855,
+      "name": "Dhivehi Premier League",
+      "country": "Maldives",
+      "type": "League"
+    },
+    {
+      "id": 864,
+      "name": "Supercopa",
+      "country": "Costa-Rica",
+      "type": "Cup"
+    },
+    {
+      "id": 873,
+      "name": "Thai Champions Cup",
+      "country": "Thailand",
+      "type": "Cup"
+    },
+    {
+      "id": 867,
+      "name": "Copa Paulino Alcantara",
+      "country": "Philippines",
+      "type": "League"
+    },
+    {
+      "id": 825,
+      "name": "Qatar Cup",
+      "country": "Qatar",
+      "type": "Cup"
+    },
+    {
+      "id": 846,
+      "name": "Somali Premier League",
+      "country": "Somalia",
+      "type": "League"
+    },
+    {
+      "id": 917,
+      "name": "Copa Ecuador",
+      "country": "Ecuador",
+      "type": "Cup"
+    },
+    {
+      "id": 966,
+      "name": "Cup",
+      "country": "Ghana",
+      "type": "Cup"
+    },
+    {
+      "id": 968,
+      "name": "Championnat D1",
+      "country": "Gabon",
+      "type": "League"
+    }
+  ],
+  "teams": [],
+  "fixtures": []
+}
